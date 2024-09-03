@@ -35,7 +35,6 @@ touch hello_world.clj
 Open the hello_world.clj file and write the following code:
 
 ```clojure
-Copiar código
 (ns hello-world.core)
 
 (defn -main []
